@@ -2,7 +2,7 @@ import serial
 import time
 
 # Replace 'COM3' with the correct port for your system
-arduino_port = 'COM3'
+arduino_port = 'COM5'
 baud_rate = 9600
 
 try:
